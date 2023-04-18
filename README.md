@@ -9,6 +9,8 @@ Index.html: This project demonstrates the use of D3 to generate a simple bar cha
 
 Pie.html: This project demonstrates the use of D3 to generate an interactive pie chart with custom colors, tooltips, and transitions.
 
+scatter.html: This project demonstrates the use of D3 to generate an interactive regression plot, as well as a random data point generator on every page refresh.
+
 
 # Running the Projects
 To run any of these projects, simply clone this repository and open the corresponding HTML file in your web browser. For example, to run the interactive pie chart project, open pie.html in your browser.
