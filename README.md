@@ -15,6 +15,8 @@ scatter.html: This project demonstrates the use of D3 to generate an interactive
 
 home.html: Simple navigation with a mid-2000s looking graphic
 
+line.html: This project demonstrates the use of D3 to generate an animated line graph.
+
 
 # Running the Projects
 To run any of these projects, simply clone this repository and open the corresponding HTML file in your web browser. For example, to run the interactive pie chart project, open pie.html in your browser.
